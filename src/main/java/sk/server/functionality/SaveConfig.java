@@ -15,7 +15,7 @@ public class SaveConfig {
         String server = scanner.nextLine();
         System.out.println("------------------------------------------");
 
-        System.out.print("Introduce el usuario de FPT: ");
+        System.out.print("Introduce el usuario de FTP: ");
         String user = scanner.nextLine();
         System.out.println("------------------------------------------");
 
